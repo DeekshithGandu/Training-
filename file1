@@ -2,6 +2,7 @@ Updating a html file
 Updating a html file
 Updating a html file
 Updating a html file
+<<<<<<< HEAD
 
 
 
@@ -9,4 +10,7 @@ Updating a html file
 This is a updated file from repo2
 This is a updated file from repo2
 This is a updated file from repo2
+
 This is a updated file from repo2
+=======
+>>>>>>> parent of 18f4aa9 (enhancement)
